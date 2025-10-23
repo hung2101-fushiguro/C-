@@ -1,0 +1,15 @@
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.AssemblyInfoInputs.cache
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.AssemblyInfo.cs
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.sourcelink.json
+E:\Satoru\Documents\C#\Readline\Readline\bin\Debug\net8.0\Readline.exe
+E:\Satoru\Documents\C#\Readline\Readline\bin\Debug\net8.0\Readline.deps.json
+E:\Satoru\Documents\C#\Readline\Readline\bin\Debug\net8.0\Readline.runtimeconfig.json
+E:\Satoru\Documents\C#\Readline\Readline\bin\Debug\net8.0\Readline.dll
+E:\Satoru\Documents\C#\Readline\Readline\bin\Debug\net8.0\Readline.pdb
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.dll
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\refint\Readline.dll
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.pdb
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\Readline.genruntimeconfig.cache
+E:\Satoru\Documents\C#\Readline\Readline\obj\Debug\net8.0\ref\Readline.dll
