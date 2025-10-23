@@ -1,0 +1,15 @@
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\bin\Debug\net8.0\Shape.exe
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\bin\Debug\net8.0\Shape.deps.json
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\bin\Debug\net8.0\Shape.dll
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\bin\Debug\net8.0\Shape.pdb
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.sourcelink.json
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.dll
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\refint\Shape.dll
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.pdb
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+E:\Satoru\Documents\C#\Bai tap\Shape\Shape\obj\Debug\net8.0\ref\Shape.dll
