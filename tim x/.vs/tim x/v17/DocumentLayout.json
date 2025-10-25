@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Satoru\\Documents\\C#\\tim x\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC5D63-EC72-4B18-B141-B075304801C4}|tim x\\tim x.csproj|e:\\satoru\\documents\\c#\\tim x\\tim x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC5D63-EC72-4B18-B141-B075304801C4}|tim x\\tim x.csproj|solutionrelative:tim x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Satoru\\Documents\\C#\\tim x\\tim x\\Program.cs",
+              "RelativeDocumentMoniker": "tim x\\Program.cs",
+              "ToolTip": "E:\\Satoru\\Documents\\C#\\tim x\\tim x\\Program.cs",
+              "RelativeToolTip": "tim x\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:18:04.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

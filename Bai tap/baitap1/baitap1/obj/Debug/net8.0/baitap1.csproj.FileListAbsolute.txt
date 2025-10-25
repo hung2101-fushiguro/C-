@@ -1,0 +1,15 @@
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\bin\Debug\net8.0\baitap1.exe
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\bin\Debug\net8.0\baitap1.deps.json
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\bin\Debug\net8.0\baitap1.runtimeconfig.json
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\bin\Debug\net8.0\baitap1.dll
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\bin\Debug\net8.0\baitap1.pdb
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.AssemblyInfoInputs.cache
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.AssemblyInfo.cs
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.sourcelink.json
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.dll
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\refint\baitap1.dll
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.pdb
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\baitap1.genruntimeconfig.cache
+E:\Satoru\Documents\C#\Bai tap\baitap1\baitap1\obj\Debug\net8.0\ref\baitap1.dll

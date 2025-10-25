@@ -1,0 +1,15 @@
+E:\Satoru\Documents\C#\hangso\hangso\bin\Debug\net8.0\hangso.exe
+E:\Satoru\Documents\C#\hangso\hangso\bin\Debug\net8.0\hangso.deps.json
+E:\Satoru\Documents\C#\hangso\hangso\bin\Debug\net8.0\hangso.runtimeconfig.json
+E:\Satoru\Documents\C#\hangso\hangso\bin\Debug\net8.0\hangso.dll
+E:\Satoru\Documents\C#\hangso\hangso\bin\Debug\net8.0\hangso.pdb
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.AssemblyInfoInputs.cache
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.AssemblyInfo.cs
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.sourcelink.json
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.dll
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\refint\hangso.dll
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.pdb
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\hangso.genruntimeconfig.cache
+E:\Satoru\Documents\C#\hangso\hangso\obj\Debug\net8.0\ref\hangso.dll
