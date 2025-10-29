@@ -1,0 +1,15 @@
+E:\Satoru\Documents\C#\Method\Method\bin\Debug\net8.0\Method.exe
+E:\Satoru\Documents\C#\Method\Method\bin\Debug\net8.0\Method.deps.json
+E:\Satoru\Documents\C#\Method\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+E:\Satoru\Documents\C#\Method\Method\bin\Debug\net8.0\Method.dll
+E:\Satoru\Documents\C#\Method\Method\bin\Debug\net8.0\Method.pdb
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.sourcelink.json
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.dll
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\refint\Method.dll
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.pdb
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+E:\Satoru\Documents\C#\Method\Method\obj\Debug\net8.0\ref\Method.dll
